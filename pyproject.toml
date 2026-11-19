@@ -1,0 +1,6 @@
+[project]
+name = "md2epub-lite"
+version = "1.0.0"
+description = "A standard-library Markdown to EPUB 3 converter"
+requires-python = ">=3.10"
+dependencies = []
